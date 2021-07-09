@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 5/16/2021 7:01:38 PM : Starting /home/gstarr/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61.038ms
+moved types parse time: 35ms
+candidates parse time : 0ms
+C# parse time         : 137ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 7:04:50 PM : Starting /home/gstarr/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.073ms
+moved types parse time: 33ms
+candidates parse time : 0ms
+C# parse time         : 131ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 7:08:05 PM : Starting /home/gstarr/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.028ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 121ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 7:10:00 PM : Starting /home/gstarr/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.697ms
+moved types parse time: 33ms
+candidates parse time : 0ms
+C# parse time         : 132ms
+candidates check time : 34ms
+console write time    : 0ms
+
